@@ -1,0 +1,28 @@
+{
+    "reciters":
+    {
+        "1":
+        {
+            "name":"Mishary Rashid","byAyat":"http://everyayah.com/data/Alafasy_64kbps/",
+            "image":"llslsls"
+        },
+        "2":
+        {
+            "name":"Ali Jaber","byAyat":"http://everyayah.com/data/Ali_Jaber_64kbps/",
+            "image":"sfsdfsdf"
+        }
+        ,
+        "3":
+        {
+            "name":"Husary","byAyat":"http://everyayah.com/data/Husary_Muallim_128kbps/",
+            "image":"dfhfgujytihgngfj"
+        }
+        ,
+        "4":
+        {
+            "name":"Abdul Basit Murattal","byAyat":"http://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
+            "image":"dfhdfhdfh"
+        }
+    },
+    "version":"1.0"
+}
