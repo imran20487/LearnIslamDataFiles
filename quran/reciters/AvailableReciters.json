@@ -3,25 +3,29 @@
     {
         "1":
         {
-            "name":"Mishary Rashid Al-Afasy","byAyat":"http://everyayah.com/data/Alafasy_64kbps/",
-            "image":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mishary-Rashid.jpg"
+            "name":"Mishary Rashid Al-Afasy","audioUrlByAyat":"http://everyayah.com/data/Alafasy_64kbps/",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mishary-Rashid.jpg",
+            "imageName":"Mishary-Rashid.jpg"
         },
         "2":
         {
-            "name":"Ali Jaber","byAyat":"http://everyayah.com/data/Ali_Jaber_64kbps/",
-            "image":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Ali-Jaber.jpg"
+            "name":"Ali Jaber","audioUrlByAyat":"http://everyayah.com/data/Ali_Jaber_64kbps/",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Ali-Jaber.jpg",
+            "imageName":"Ali-Jaber.jpg"
         }
         ,
         "3":
         {
-            "name":"Mahmoud Khalil Al-Husary","byAyat":"http://everyayah.com/data/Husary_Muallim_128kbps/",
-            "image":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mahmoud-Husary.png"
+            "name":"Mahmoud Khalil Al-Husary","audioUrlByAyat":"http://everyayah.com/data/Husary_Muallim_128kbps/",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mahmoud-Husary.png",
+            "imageName":"Mahmoud-Husary.png"
         }
         ,
         "4":
         {
-            "name":"Abdul Basit Murattal","byAyat":"http://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
-            "image":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Abdul-Basit.jpeg"
+            "name":"Abdul Basit Murattal","audioUrlByAyat":"http://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Abdul-Basit.jpeg",
+            "imageName":"Abdul-Basit.jpeg"
         }
     },
     "version":"1.0"
