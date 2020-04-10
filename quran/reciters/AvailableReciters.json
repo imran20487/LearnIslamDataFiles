@@ -5,27 +5,27 @@
         {
             "name":"Mishary Rashid Al-Afasy","audioUrlByAyat":"http://everyayah.com/data/Alafasy_64kbps/",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mishary-Rashid.jpg",
-            "imageName":"Mishary-Rashid.jpg"
+            "imageName":"Mishary_Rashid.jpg"
         },
         "2":
         {
             "name":"Ali Jaber","audioUrlByAyat":"http://everyayah.com/data/Ali_Jaber_64kbps/",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Ali-Jaber.jpg",
-            "imageName":"Ali-Jaber.jpg"
-        }
-        ,
-        "3":
-        {
-            "name":"Mahmoud Khalil Al-Husary","audioUrlByAyat":"http://everyayah.com/data/Husary_Muallim_128kbps/",
-            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mahmoud-Husary.png",
-            "imageName":"Mahmoud-Husary.png"
+            "imageName":"Ali_Jaber.jpg"
         }
         ,
         "4":
         {
+            "name":"Mahmoud Khalil Al-Husary","audioUrlByAyat":"http://everyayah.com/data/Husary_Muallim_128kbps/",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mahmoud-Husary.png",
+            "imageName":"Mahmoud_Husary.png"
+        }
+        ,
+        "3":
+        {
             "name":"Abdul Basit Murattal","audioUrlByAyat":"http://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
-            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Abdul-Basit.jpeg",
-            "imageName":"Abdul-Basit.jpeg"
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Abdul-Basit.png",
+            "imageName":"Abdul_Basit.png"
         }
     },
     "version":"1.0"
