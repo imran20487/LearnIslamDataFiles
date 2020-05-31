@@ -3,29 +3,51 @@
     {
         "1":
         {
-            "name":"Mishary Rashid Al-Afasy","audioUrlByAyat":"http://everyayah.com/data/Alafasy_64kbps/",
+            "name":"Mishary Rashid",
+            "basmalaAvailable":true,
+            "displayName":"Mishary Rashid Alafasy",
+            "audioUrlByAyat":"http://everyayah.com/data/Alafasy_64kbps/",
+            "audioUrlBySurahZip":"http://everyayah.com/data/Alafasy_64kbps/zips/",
+            "folderName":"Alafasy_64kbps",
+            "zipExtn":"zip",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mishary-Rashid.jpg",
             "imageName":"Mishary_Rashid.jpg"
         },
         "2":
         {
-            "name":"Ali Jaber","audioUrlByAyat":"http://everyayah.com/data/Ali_Jaber_64kbps/",
+            "name":"Ali Jaber",
+            "basmalaAvailable":true,
+            "displayName":"Sheikh Ali Abdullah Jaber",
+            "audioUrlByAyat":"http://everyayah.com/data/Ali_Jaber_64kbps/",
+            "audioUrlBySurahZip":"http://everyayah.com/data/Ali_Jaber_64kbps/zips/",
+            "folderName":"Ali_Jaber_64kbps",
+            "zipExtn":"zip",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Ali-Jaber.jpg",
             "imageName":"Ali_Jaber.jpg"
-        }
-        ,
-        "4":
-        {
-            "name":"Mahmoud Khalil Al-Husary","audioUrlByAyat":"http://everyayah.com/data/Husary_Muallim_128kbps/",
-            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mahmoud-Husary.png",
-            "imageName":"Mahmoud_Husary.png"
-        }
-        ,
+        },
         "3":
         {
-            "name":"Abdul Basit Murattal","audioUrlByAyat":"http://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
+            "name":"Abdul Basit",
+            "basmalaAvailable":true,
+            "displayName":"Sheikh Abdul Basit Abdul Samad (Murattal)",
+            "audioUrlByAyat":"http://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
+            "audioUrlBySurahZip":"http://everyayah.com/data/Abdul_Basit_Murattal_192kbps/zips/",
+            "folderName":"Abdul_Basit_Murattal_192kbps",
+            "zipExtn":"zip",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Abdul-Basit.png",
             "imageName":"Abdul_Basit.png"
+        },
+        "4":
+        {
+            "name":"Farhat Hashmi",
+            "basmalaAvailable":true,
+            "displayName":"Farhat Hashmi (Urdu word for word translation)",
+            "audioUrlByAyat":"http://everyayah.com/data/translations/urdu_farhat_hashmi/",
+            "audioUrlBySurahZip":"http://everyayah.com/data/translations/urdu_farhat_hashmi/zips/",
+            "folderName":"urdu_farhat_hashmi",
+            "zipExtn":"zip",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/dummy.png",
+            "imageName":"dummy.png"
         }
     },
     "version":"1.0"
