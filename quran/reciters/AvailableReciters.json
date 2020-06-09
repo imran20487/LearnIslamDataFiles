@@ -48,6 +48,18 @@
             "zipExtn":"zip",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/dummy.png",
             "imageName":"dummy.png"
+        },
+        "5":
+        {
+            "name":"Hussary",
+            "basmalaAvailable":false,
+            "displayName":"Mahmoud Khalil Al-Hussary (Muallim)",
+            "audioUrlByAyat":"http://everyayah.com/data/Husary_Muallim_128kbps/",
+            "audioUrlBySurahZip":"http://everyayah.com/data/Husary_Muallim_128kbps/zips/",
+            "folderName":"Husary_Muallim_128kbps",
+            "zipExtn":"zip",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mahmoud-Husary.png",
+            "imageName":"Mahmoud_Husary.png"
         }
     },
     "version":"1.0"
