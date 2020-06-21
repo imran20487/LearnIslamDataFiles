@@ -60,6 +60,18 @@
             "zipExtn":"zip",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Yasser_Ad-Dussary.jpg",
             "imageName":"Yasser_Ad-Dussary.jpg"
+        },
+        "6":
+        {
+            "name":"Saood Ash Shuraym",
+            "basmalaAvailable":true,
+            "displayName":"Saood bin Ibraaheem Ash-Shuraym",
+            "audioUrlByAyat":"https://everyayah.com/data/Saood_ash-Shuraym_64kbps/",
+            "audioUrlBySurahZip":"https://everyayah.com/data/Saood_ash-Shuraym_64kbps/zips/",
+            "folderName":"Saood_Ash_Shuraym",
+            "zipExtn":"zip",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Saood_Ash_Shuraym.jpg",
+            "imageName":"Saood_Ash_Shuraym.jpg"
         }
     },
     "version":"1.0"
