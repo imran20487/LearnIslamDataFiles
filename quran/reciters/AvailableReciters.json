@@ -48,6 +48,18 @@
             "zipExtn":"zip",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/dummy.png",
             "imageName":"dummy.png"
+        },
+        "5":
+        {
+            "name":"Yasser Dosari",
+            "basmalaAvailable":true,
+            "displayName":"Yasser Al-Dosari",
+            "audioUrlByAyat":"https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/",
+            "audioUrlBySurahZip":"https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/zips/",
+            "folderName":"Yasser_Al-Dosari",
+            "zipExtn":"zip",
+            "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/Yasser_Ad-Dussary.jpg",
+            "imageName":"Yasser_Ad-Dussary.jpg"
         }
     },
     "version":"1.0"
