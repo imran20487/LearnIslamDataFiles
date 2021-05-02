@@ -6,9 +6,9 @@
             "name":"Mishary Rashid",
             "basmalaAvailable":true,
             "displayName":"Mishary Rashid Alafasy",
-            "audioUrlByAyat":"http://everyayah.com/data/Alafasy_64kbps/",
-            "audioUrlBySurahZip":"http://everyayah.com/data/Alafasy_64kbps/zips/",
-            "folderName":"Alafasy_64kbps",
+            "audioUrlByAyat":"http://everyayah.com/data/Alafasy_128kbps/",
+            "audioUrlBySurahZip":"http://everyayah.com/data/Alafasy_128kbps/zips/",
+            "folderName":"Alafasy_128kbps",
             "zipExtn":"zip",
             "imageURL":"https://raw.githubusercontent.com/imran20487/LearnIslamDataFiles/master/quran/reciters/images/Mishary-Rashid.jpg",
             "imageName":"Mishary_Rashid.jpg"
